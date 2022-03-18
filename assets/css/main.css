@@ -4648,7 +4648,7 @@ header .navbar .navbar-brand {
 header .navbar .navbar-brand .logo {
   vertical-align: bottom;
   margin-right: 0.5rem;
-  width: 27px;
+  width: 100px;
 }
 header .navbar .navbar-collapse {
   margin-top: 0.4rem;
@@ -4696,7 +4696,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     font-size: 18px !important;
   }
   header .navbar-brand .logo {
-    width: 24px !important;
+    width: 100px !important;
   }
   header .navbar-collapse {
     margin-left: 0 !important;
@@ -14653,13 +14653,7 @@ software_web
 /*-----------------------------
   simple-subscribe
 -----------------------------*/
-.simple-subscribe .content {
-  -webkit-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -moz-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -o-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -ms-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-}
+
 .simple-subscribe .content .title_sections_inner {
   margin-bottom: 40px;
 }
