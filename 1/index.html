@@ -110,13 +110,23 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                       <div class="form-group item_scubscribe">
                         <div class="input_group">
    <form id="get_stock_quote_form" onsubmit="get_stock_quote()" method="GET">
-                          <input id="symbol" type="number" class="form-control" placeholder="Ingresar número de agente">
+                            <select class="form-control custom-select" name="forma" onchange="location = this.value;">
+                          <option value="#">Seleccionar</option>
+ 			  <option value="http://mpago.li/1h2nnWr">100 - Nombre y apellido</option>
+                          <option value="http://mpago.li/1h2nnWr">101 - Nombre y apellido</option>
+                          <option value="http://mpago.li/1h2nnWr">102 - Nombre y apellido</option>
+                        </select>
                           <button type="submit" value="Submit" class="btn">
-                            <i class="tio shopping_cart"></i>
+                            <i class="tio search"></i>
     </form>
                           </button>
                         </div>
                       </div>
+
+
+
+
+
 <center>
 <a href="../ayuda" class="btn btn_md_primary c-blue border-1 opacity-1 effect-letter rounded-pill">Necesito ayuda</a>
 </center>
