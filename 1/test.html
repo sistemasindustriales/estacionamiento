@@ -66,44 +66,32 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 </head>
 
 <body>
+
+
+
+
 <style>
-.wrapper {
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  background: #ffffff;
+div {
+    position: relative;
+    height: 100vh;
 }
 
-.h_iframe {
-  position: relative;
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
 }
-
-.h_iframe .ratio {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.h_iframe iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 </style>
 
 
-
-
-<div class="wrapper">
-  <div class="h_iframe">
-    <!-- a transparent image is preferable -->
-   
-    <iframe frameborder='0' height='465px' width='470px' scrolling='no' src='https://bit.ly/3yfI4Jz' frameborder="0" allowfullscreen></iframe>
-  </div>
+<div>
+<iframe src="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/667aab04-979c-461e-8ef6-0d26a022f925/payment-option-form/?router-request-id=a73c3a90-e864-49d1-a2ac-30a736e8297a&preference-id=225496785-a83fc0aa-35c6-4921-b877-4f45b64fedf6&p=2c84dddbfae8aeb1b94b6d2257a36bb4#/" allowfullscreen></iframe>
 </div>
+
+
+
 </body>
 
 </html>
