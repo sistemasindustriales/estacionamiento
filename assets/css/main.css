@@ -4732,10 +4732,10 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   z-index: 12;
 }
 .header-nav-center .navbar-brand {
-  color: #0b2238;
+  color: #c9108f;
 }
 .header-nav-center .navbar-collapse .nav-item .nav-link {
-  color: #0b2238;
+  color: #c9108f;
   -webkit-transition: 0.4s !important;
   -moz-transition: 0.4s !important;
   -o-transition: 0.4s !important;
@@ -4777,16 +4777,16 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   }
 }
 .fixed-header header.nav-product .navbar-brand {
-  color: #0b2238 !important;
+  color: ##c9108f !important;
 }
 .fixed-header header.nav-product .nav-pills .nav-item .nav-link {
-  color: #0b2238 !important;
+  color: ##c9108f !important;
 }
 .fixed-header header.nav-product .nav-pills .nav-item .nav-link.active {
   color: #165df5 !important;
 }
 .fixed-header header.nav-product .nav_account .btn-default {
-  color: #0b2238 !important;
+  color: ##c9108f !important;
 }
 .fixed-header header.nav-product .nav_account .btn-primary {
   background-color: #165df5 !important;
