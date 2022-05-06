@@ -10474,8 +10474,8 @@ software_web
   transition: 0.3s !important;
 }
 .pricing_demo3 .nav-pills .nav-item .nav-link.active {
-  background-color: rgba(153, 156, 158, 0.1);
-  color: #7a7a7a;
+  background-color: rgba(107, 107, 107, 0.1);
+  color: #222222;
 }
 .pricing_demo3 .blocks_pricing .item__price {
   border-radius: 12px !important;
