@@ -67,37 +67,43 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
 <body>
 <style>
-.containervideo {
-  position: relative;
-  overflow: hidden;
+.wrapper {
   width: 100%;
- 
-  padding-top: 58.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  height: 100%;
+  margin: 0 auto;
+  background: #ffffff;
 }
 
-/* Then style the iframe to fit in the container div with full height and width */
-.responsive-iframe {
+.h_iframe {
+  position: relative;
+}
+
+.h_iframe .ratio {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.h_iframe iframe {
   position: absolute;
   top: 0;
   left: 0;
-  bottom: 0;
-  right: 0;
   width: 100%;
   height: 100%;
 }
 
-
 </style>
-<div class="containervideo">
-<iframe class="responsive-iframe" 
-      src="https://bit.ly/3yfI4Jz" scrolling="no" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+<div class="wrapper">
+  <div class="h_iframe">
+    <!-- a transparent image is preferable -->
+   
+    <iframe frameborder='0' height='465px' width='470px' scrolling='no' src='https://bit.ly/3yfI4Jz' frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
-
-
-
-
-
-
 </body>
 
 </html>
