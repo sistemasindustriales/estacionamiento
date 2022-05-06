@@ -4696,7 +4696,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     font-size: 18px !important;
   }
   header .navbar-brand .logo {
-    width: 27px !important;
+    width: 24px !important;
   }
   header .navbar-collapse {
     margin-left: 0 !important;
@@ -4777,16 +4777,16 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   }
 }
 .fixed-header header.nav-product .navbar-brand {
-  color: ##0b2238 !important;
+  color: #0b2238 !important;
 }
 .fixed-header header.nav-product .nav-pills .nav-item .nav-link {
-  color: ##0b2238 !important;
+  color: #0b2238 !important;
 }
 .fixed-header header.nav-product .nav-pills .nav-item .nav-link.active {
   color: #165df5 !important;
 }
 .fixed-header header.nav-product .nav_account .btn-default {
-  color: ##0b2238 !important;
+  color: #0b2238 !important;
 }
 .fixed-header header.nav-product .nav_account .btn-primary {
   background-color: #165df5 !important;
@@ -6217,7 +6217,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   height: 250px;
   background-repeat: no-repeat;
   top: -110px;
-  right: 27px;
+  right: 100px;
 }
 @media (max-width: 767px) {
   .banner_about_two .parallax_cover::before {
@@ -6775,7 +6775,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   }
 }
 .logos_section .items .item-client img {
-  width: 27px;
+  width: 100px;
   -webkit-transition: 0.4s !important;
   -moz-transition: 0.4s !important;
   -o-transition: 0.4s !important;
@@ -10473,8 +10473,8 @@ software_web
   transition: 0.3s !important;
 }
 .pricing_demo3 .nav-pills .nav-item .nav-link.active {
-  background-color: rgba(62, 64, 69, 0.05);
-  color: #222222;
+  background-color: rgba(249, 53, 66, 0.1);
+  color: #f93542;
 }
 .pricing_demo3 .blocks_pricing .item__price {
   border-radius: 12px !important;
@@ -14653,7 +14653,13 @@ software_web
 /*-----------------------------
   simple-subscribe
 -----------------------------*/
-
+.simple-subscribe .content {
+  -webkit-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+  -moz-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+  -o-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+  -ms-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+  box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+}
 .simple-subscribe .content .title_sections_inner {
   margin-bottom: 40px;
 }
@@ -19623,13 +19629,13 @@ html:not(.no-js) [data-aos="fade-up"] {
 -----------------------------*/
 .prgoress_indicator {
   position: fixed;
-  right: 0px;
-  bottom: 0px;
-  height: 0px;
-  width: 0px;
+  right: 50px;
+  bottom: 50px;
+  height: 46px;
+  width: 46px;
   cursor: pointer;
   display: block;
-  border-radius: 0px;
+  border-radius: 50px;
   box-shadow: inset 0 0 0 2px rgba(22, 93, 245, 0.2);
   z-index: 10000;
   opacity: 0;
@@ -19660,13 +19666,13 @@ html:not(.no-js) [data-aos="fade-up"] {
   font-family: "The-Icon-of";
   content: "\e9a2";
   text-align: center;
-  line-height: 0px;
-  font-size: 0px;
+  line-height: 46px;
+  font-size: 18px;
   color: rgba(22, 93, 245, 0.2);
   left: 0;
   top: 0;
-  height: 0px;
-  width: 0px;
+  height: 46px;
+  width: 46px;
   cursor: pointer;
   display: block;
   z-index: 1;
