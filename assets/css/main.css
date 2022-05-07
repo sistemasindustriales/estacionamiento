@@ -14655,11 +14655,7 @@ software_web
   simple-subscribe
 -----------------------------*/
 .simple-subscribe .content {
-  -webkit-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -moz-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -o-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  -ms-box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
-  box-shadow: 0px 65px 70px -70px rgba(11, 34, 56, 0.08) !important;
+
 }
 .simple-subscribe .content .title_sections_inner {
   margin-bottom: 40px;
