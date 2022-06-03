@@ -5915,7 +5915,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     left: 20px;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .demo__software .element_ui .item:first-of-type img {
     left: 120px;
   }
@@ -5942,7 +5942,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     right: 170px;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .demo__software .element_ui .item:nth-of-type(2) img {
     right: -170px;
   }
@@ -5970,7 +5970,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     left: 580px;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .demo__software .element_ui .item:nth-of-type(3) img {
     bottom: -180px;
     left: 120px;
@@ -5999,7 +5999,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     display: none;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .demo__software .element_ui .item:nth-of-type(4) img {
     display: none;
   }
@@ -7979,7 +7979,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   color: #ffffff;
   font-weight: normal;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .service_mobile_app .title_sections h2 {
     font-size: 60px;
   }
@@ -9193,7 +9193,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   color: #ffffff;
   font-weight: normal;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .features_mobileApp .title_sections h2 {
     font-size: 60px;
   }
@@ -10713,7 +10713,7 @@ software_web
   background-color: rgba(253, 107, 59, 0.1);
   padding: 8px 13px;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .p_pricing_list .content_pricing {
     margin-top: -25px;
   }
@@ -10946,7 +10946,7 @@ software_web
   color: #ffffff;
   font-weight: normal;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .pricing_list_app .title_sections h2 {
     font-size: 60px;
   }
@@ -11862,7 +11862,7 @@ software_web
   -ms-box-shadow: 0px 50px 70px -10px rgba(11, 34, 56, 0.05) !important;
   box-shadow: 0px 50px 70px -10px rgba(11, 34, 56, 0.05) !important;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .form_cc_four .item_upload {
     display: flex;
   }
@@ -12667,7 +12667,7 @@ software_web
   color: #ffffff;
   font-weight: normal;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .customers_app .title_sections h2 {
     font-size: 60px;
   }
@@ -17108,7 +17108,7 @@ software_web
   color: #ffffff;
   font-weight: normal;
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .download_app_ho .title_sections h2 {
     font-size: 60px;
   }
@@ -20500,7 +20500,7 @@ html:not(.no-js) [data-aos="fade-up"] {
     * ----------------------------------------
     */
 }
-@media (min-width: 992px) {
+@media (min-width: 2990px) {
   .dropdown .dropdown-menu.single-drop {
     height: auto !important;
   }
