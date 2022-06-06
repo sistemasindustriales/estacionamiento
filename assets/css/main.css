@@ -4492,7 +4492,7 @@ html:not(.no-js) [data-aos="fade-up"] {
     margin: 0 5px 20px 5px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .section_library_use .box_lib .item {
     width: calc(100% / 9);
   }
@@ -5920,7 +5920,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     left: 120px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .demo__software .element_ui .item:first-of-type img {
     left: 280px;
   }
@@ -5947,7 +5947,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     right: -170px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .demo__software .element_ui .item:nth-of-type(2) img {
     right: -240px;
   }
@@ -5976,7 +5976,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     left: 120px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .demo__software .element_ui .item:nth-of-type(3) img {
     bottom: -265px;
   }
@@ -6004,7 +6004,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     display: none;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .demo__software .element_ui .item:nth-of-type(4) img {
     display: block;
   }
@@ -10718,7 +10718,7 @@ software_web
     margin-top: -25px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .p_pricing_list .content_pricing {
     margin-top: -55px;
   }
